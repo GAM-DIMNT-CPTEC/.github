@@ -1,6 +1,8 @@
 # Grupo de Avaliação de Modelos (GAM)
 
-O Grupo de Avaliação de Modelos (GAM), mantém uma suíte de avaliação de modelos numéricos, da qual fazem parte os seguintes softwares:
+Bem-vindo à página do Grupo de Avaliação de Modelos da DIMNT (GAM-DIMNT)!
+
+O GAM mantém uma suíte de avaliação de modelos numéricos, da qual fazem parte os seguintes softwares:
 
 * [Sistema Comunitário de Avaliação de modelos Numéricos de Tempo E Clima (SCANTEC)](https://github.com/GAM-DIMNT-CPTEC/SCANTEC);
 * [Model Evaluation Comparator (MEC)](https://github.com/GAM-DIMNT-CPTEC/MEC);
